@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1749127999273" clover="3.2.0">
+  <project timestamp="1749127999273" name="All files">
+    <metrics statements="105" coveredstatements="101" conditionals="63" coveredconditionals="51" methods="25" coveredmethods="24" elements="193" coveredelements="176" complexity="0" loc="105" ncloc="105" packages="3" files="7" classes="7"/>
+    <package name="src">
+      <metrics statements="72" coveredstatements="68" conditionals="46" coveredconditionals="34" methods="14" coveredmethods="13"/>
+      <file name="App.tsx" path="/Users/hugo/Documents/Ecole/MDS/Cours/Developpement PHP/snacke/src/App.tsx">
+        <metrics statements="67" coveredstatements="63" conditionals="44" coveredconditionals="32" methods="13" coveredmethods="12"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="97" type="stmt"/>
+        <line num="13" count="97" type="stmt"/>
+        <line num="14" count="97" type="stmt"/>
+        <line num="15" count="97" type="stmt"/>
+        <line num="16" count="97" type="stmt"/>
+        <line num="17" count="97" type="stmt"/>
+        <line num="18" count="97" type="stmt"/>
+        <line num="19" count="97" type="stmt"/>
+        <line num="21" count="97" type="stmt"/>
+        <line num="22" count="97" type="stmt"/>
+        <line num="23" count="44" type="cond" truecount="4" falsecount="0"/>
+        <line num="26" count="97" type="stmt"/>
+        <line num="27" count="61" type="stmt"/>
+        <line num="28" count="9" type="cond" truecount="1" falsecount="0"/>
+        <line num="29" count="8" type="stmt"/>
+        <line num="30" count="8" type="cond" truecount="3" falsecount="0"/>
+        <line num="31" count="5" type="stmt"/>
+        <line num="34" count="61" type="stmt"/>
+        <line num="35" count="61" type="stmt"/>
+        <line num="38" count="97" type="stmt"/>
+        <line num="39" count="61" type="cond" truecount="1" falsecount="0"/>
+        <line num="40" count="23" type="stmt"/>
+        <line num="41" count="23" type="stmt"/>
+        <line num="43" count="61" type="cond" truecount="0" falsecount="1"/>
+        <line num="44" count="61" type="cond" truecount="0" falsecount="1"/>
+        <line num="47" count="97" type="stmt"/>
+        <line num="48" count="60" type="cond" truecount="3" falsecount="0"/>
+        <line num="49" count="26" type="stmt"/>
+        <line num="50" count="640" type="stmt"/>
+        <line num="51" count="640" type="stmt"/>
+        <line num="56" count="640" type="cond" truecount="1" falsecount="0"/>
+        <line num="61" count="157" type="cond" truecount="1" falsecount="1"/>
+        <line num="63" count="483" type="stmt"/>
+        <line num="64" count="483" type="cond" truecount="3" falsecount="0"/>
+        <line num="65" count="455" type="stmt"/>
+        <line num="67" count="483" type="stmt"/>
+        <line num="68" count="483" type="stmt"/>
+        <line num="71" count="157" type="stmt"/>
+        <line num="72" count="157" type="cond" truecount="3" falsecount="1"/>
+        <line num="73" count="0" type="stmt"/>
+        <line num="78" count="157" type="stmt"/>
+        <line num="80" count="157" type="stmt"/>
+        <line num="81" count="157" type="stmt"/>
+        <line num="84" count="26" type="stmt"/>
+        <line num="87" count="97" type="stmt"/>
+        <line num="88" count="24" type="stmt"/>
+        <line num="89" count="24" type="stmt"/>
+        <line num="90" count="24" type="stmt"/>
+        <line num="91" count="24" type="stmt"/>
+        <line num="92" count="24" type="stmt"/>
+        <line num="93" count="24" type="stmt"/>
+        <line num="94" count="24" type="stmt"/>
+        <line num="95" count="24" type="stmt"/>
+        <line num="98" count="97" type="cond" truecount="2" falsecount="0"/>
+        <line num="100" count="97" type="cond" truecount="1" falsecount="5"/>
+        <line num="102" count="97" type="stmt"/>
+        <line num="126" count="0" type="stmt"/>
+        <line num="127" count="0" type="cond" truecount="0" falsecount="3"/>
+        <line num="128" count="0" type="stmt"/>
+        <line num="141" count="2" type="stmt"/>
+      </file>
+      <file name="constants.ts" path="/Users/hugo/Documents/Ecole/MDS/Cours/Developpement PHP/snacke/src/constants.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="3" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components">
+      <metrics statements="15" coveredstatements="15" conditionals="8" coveredconditionals="8" methods="5" coveredmethods="5"/>
+      <file name="Board.tsx" path="/Users/hugo/Documents/Ecole/MDS/Cours/Developpement PHP/snacke/src/components/Board.tsx">
+        <metrics statements="9" coveredstatements="9" conditionals="8" coveredconditionals="8" methods="3" coveredmethods="3"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="28" type="stmt"/>
+        <line num="25" count="6300" type="stmt"/>
+        <line num="26" count="6300" type="stmt"/>
+        <line num="27" count="6300" type="cond" truecount="2" falsecount="0"/>
+        <line num="28" count="6300" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="6300" type="stmt"/>
+        <line num="42" count="2" type="stmt"/>
+      </file>
+      <file name="GameOver.tsx" path="/Users/hugo/Documents/Ecole/MDS/Cours/Developpement PHP/snacke/src/components/GameOver.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="11" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+      </file>
+      <file name="ScoreBoard.tsx" path="/Users/hugo/Documents/Ecole/MDS/Cours/Developpement PHP/snacke/src/components/ScoreBoard.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="28" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.utils">
+      <metrics statements="18" coveredstatements="18" conditionals="9" coveredconditionals="9" methods="6" coveredmethods="6"/>
+      <file name="direction.ts" path="/Users/hugo/Documents/Ecole/MDS/Cours/Developpement PHP/snacke/src/utils/direction.ts">
+        <metrics statements="9" coveredstatements="9" conditionals="7" coveredconditionals="7" methods="2" coveredmethods="2"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="13" type="cond" truecount="5" falsecount="0"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="20" count="15" type="cond" truecount="2" falsecount="0"/>
+      </file>
+      <file name="food.ts" path="/Users/hugo/Documents/Ecole/MDS/Cours/Developpement PHP/snacke/src/utils/food.ts">
+        <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="232" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="407" type="cond" truecount="2" falsecount="0"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="21" count="130" type="stmt"/>
+        <line num="22" count="132" type="stmt"/>
+        <line num="24" count="130" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
